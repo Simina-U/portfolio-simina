@@ -1,5 +1,5 @@
 import Head from "next/head";
-import linkedInImg from "../public/images/projects/LinkedIn.PNG";
+import linkedInImg from ".//../public/images/projects/LinkedIn.PNG";
 import ProjectPage from "../components/ProjectPage";
 
 export default function LinkedInClone() {

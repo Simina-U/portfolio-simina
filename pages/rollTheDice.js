@@ -1,4 +1,4 @@
-import rollTheDiceImage from "../public/images/projects/Roll-The-Dice.png";
+import rollTheDiceImage from ".//../public/images/projects/Roll-The-Dice.png";
 import ProjectPage from "../components/ProjectPage";
 import Head from "next/head";
 

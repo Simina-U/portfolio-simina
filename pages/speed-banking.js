@@ -1,5 +1,5 @@
 import Head from "next/head";
-import speedBankingImg from "../public/images/projects/Speed-Banking.jpg";
+import speedBankingImg from ".//../public/images/projects/Speed-Banking.jpg";
 import ProjectPage from "../components/ProjectPage";
 
 export default function speedBanking() {
