@@ -1,5 +1,5 @@
 import Head from "next/head";
-import movies from ".//../public/images/projects/Movies.PNG";
+import movies from ".//../public/images/projects/Movies.png";
 import ProjectPage from "../components/ProjectPage";
 
 export default function MoviebasePage() {

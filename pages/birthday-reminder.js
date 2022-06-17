@@ -1,5 +1,5 @@
 import Head from "next/head";
-import birthdayReminderImg from ".//../public/images/projects/Birthday-Reminder.PNG";
+import birthdayReminderImg from ".//../public/images/projects/Birthday-Reminder.png";
 import ProjectPage from "../components/ProjectPage";
 
 export default function birthdayReminderComponent() {
