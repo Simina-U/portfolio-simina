@@ -17,7 +17,7 @@ export default function Skills() {
             title="Tailwind"
           />
           <Skill
-            image="/../public/images/skills/chakra-ui.png"
+            image="/../public/images/skills/Chakra.png"
             title="Chakra UI"
           />
           <Skill
