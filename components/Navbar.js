@@ -15,7 +15,7 @@ export default function Navbar() {
     <div className="fixed w-full h-20 shadow-xl z-[100] bg-[#ecf0f3]">
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/" passHref>
-          <Image src="/../public/logo.png" alt="/" width="100" height="70" />
+          <Image src="/logo.png" alt="/" width="100" height="70" />
         </Link>
 
         <div>
@@ -61,12 +61,7 @@ export default function Navbar() {
           <div>
             <div className="flex w-full items-center justify-between">
               <Link href="/">
-                <Image
-                  src="/../public/logo.png"
-                  alt="/"
-                  width="100"
-                  height="80"
-                />
+                <Image src="/logo.png" alt="/" width="100" height="80" />
               </Link>
               <div
                 onClick={handleNav}
