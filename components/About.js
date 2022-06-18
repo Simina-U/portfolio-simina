@@ -3,8 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 export default function About() {
   return (
-    <div id="about" className="w-full md:h-screen p-2 flex items-center ">
-      <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8 py-6 pt-10">
+    <div id="about" className="w-full md:h-screen p-2 flex items-center pt-14">
+      <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8 py-16">
         <div className="col-span-2">
           <p className="uppercase text-xl tracking-widest text-[#5651e5]">
             About
@@ -27,7 +27,7 @@ export default function About() {
             am.
           </p>
           <Link href="/#projects">
-            <p className="py-2 pt-5 text-gray-600 underline cursor-pointer">
+            <p className="py-2 pt-2 text-gray-600 underline cursor-pointer">
               Check out some of my latest projects.
             </p>
           </Link>
