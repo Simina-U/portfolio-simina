@@ -3,8 +3,8 @@ import Skill from "../components/Skill";
 
 export default function Skills() {
   return (
-    <div id="skills" className="w-full lg:h-screen p-2 py-6 ">
-      <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full pt-16  ">
+    <div id="skills" className="w-full lg:h-screen p-2 py-6 pt-16  ">
+      <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full  ">
         <p className="text-xl tracking-widest uppercase text-[#5651e5] ">
           Skills
         </p>
