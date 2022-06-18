@@ -10,34 +10,19 @@ export default function Skills() {
         </p>
         <h2 className="py-4">What I can do?</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-          <Skill image="/../public/images/skills/html.png" title="HTML" />
-          <Skill image="/../public/images/skills/css.png" title="CSS" />
-          <Skill
-            image="/../public/images/skills/tailwind.png"
-            title="Tailwind"
-          />
-          <Skill
-            image="/../public/images/skills/Chakra.png"
-            title="Chakra UI"
-          />
-          <Skill
-            image="/../public/images/skills/javascript.png"
-            title="JavaScript"
-          />
-          <Skill
-            image="/../public/images/skills/firebase.png"
-            title="Firebase"
-          />
-          <Skill image="/../public/images/skills/mongo.png" title="MongoDB" />
+          <Skill src="/images/skills/html.png" title="HTML" />
+          <Skill src="/images/skills/css.png" title="CSS" />
+          <Skill src="/images/skills/tailwind.png" title="Tailwind" />
+          <Skill src="/images/skills/Chakra.png" title="Chakra UI" />
+          <Skill src="/images/skills/javascript.png" title="JavaScript" />
+          <Skill src="/images/skills/firebase.png" title="Firebase" />
+          <Skill src="/images/skills/mongo.png" title="MongoDB" />
 
-          <Skill
-            image="/../public/images/skills/supabase.png"
-            title="Supabase"
-          />
-          <Skill image="/../public/images/skills/node.png" title="Node" />
-          <Skill image="/../public/images/skills/react.png" title="React" />
-          <Skill image="/../public/images/skills/next.png" title="Next.js" />
-          <Skill image="/../public/images/skills/github1.png" title="Github" />
+          <Skill src="/images/skills/supabase.png" title="Supabase" />
+          <Skill src="/images/skills/node.png" title="Node" />
+          <Skill src="/images/skills/react.png" title="React" />
+          <Skill src="/images/skills/next.png" title="Next.js" />
+          <Skill src="/images/skills/github1.png" title="Github" />
         </div>
       </div>
     </div>
